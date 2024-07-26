@@ -1,4 +1,4 @@
-# Tripplan
+# Triplan
 Platform to search and plan your next vacation
 
 ## Highlighted features
